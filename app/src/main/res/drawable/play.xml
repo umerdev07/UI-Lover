@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Background shape with gradient and rounded corners -->
+
+
+    <!-- Play icon in the center -->
+    <item android:gravity="center">
+        <vector xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="400dp"
+            android:height="400dp"
+            android:viewportWidth="24"
+            android:viewportHeight="24">
+            <path
+                android:fillColor="#CB36F4"
+                android:pathData="M8,5.14v14l11-7z"/>
+        </vector>
+    </item>
+
+</layer-list>

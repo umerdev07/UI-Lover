@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UI Lover</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="todo">TODO</string>
+    <string name="todos">TODO</string>
+    <string name="pla">TODO</string>
+    <string name="umer_yousaf">Umer Yousaf</string>
+    <string name="umeryousaf2020_gmail_com">umeryousaf2020@gmail.com</string>
+</resources>
